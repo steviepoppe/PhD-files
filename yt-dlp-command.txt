@@ -1,0 +1,1 @@
+yt-dlp --sleep-interval 5 --max-sleep-interval 10 --embed-metadata --embed-thumbnail --write-auto-subs --write-description --write-info-json --write-comments [URL]
